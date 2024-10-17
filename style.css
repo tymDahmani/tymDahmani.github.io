@@ -112,6 +112,11 @@ embed {
     border-color: #725ac1;
     color: #ddd8f5;
     background-color: #191135;
+    list-style-type: none;
+}
+
+.icon {
+    margin-left: 5px;
 }
 
 #projects h2 {
@@ -130,19 +135,6 @@ li {
     line-height: 40px;
 }
 
-#credits {
-    width: 400px;
-    height: 100%;
-    line-height: 0px;
-    position: relative;
-    padding-top: 100px;
-    margin-top: 30px;
-    background-color: #82c3c3;
-    border: 2px solid;
-    padding: 10px;
-    border-color: #b0f7f7;
-    color: #191135;
-}
 
 #copyright {
     width: 423.4px;
