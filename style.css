@@ -1,0 +1,155 @@
+body {
+    background-color: #100b2c;
+    font-family: 'Consolas';
+}
+
+#page {
+    width: 1200px;
+    height: 100%;
+    padding: 50px;
+    margin-left: 95px;
+}
+
+#container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#me {
+    float: left;
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+#title {
+    width: 91.3%;
+}
+
+#nickname {
+    width: 120px;
+    height: 40%;
+    color: #4b33c1;
+    margin-bottom: 0px;
+}
+
+embed {
+    display: none;
+}
+
+@font-face {
+    font-family: meows;
+    src: url(Meows-VGWjy.ttf);
+}
+
+#clkme {
+    color: #191135;
+    cursor: pointer;
+    font-family: meows;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    float: right;
+    margin-top: 1.5px;
+    margin-right: 1px;
+}
+
+
+#about {
+    width: 300px;
+    height: 100%;
+    margin-top: 3%;
+    border: 2px solid;
+    padding: 10px;
+    border-color: #725ac1;
+    color: #ddd8f5;
+    background-color: #191135;
+}
+
+#about h2 {
+    text-decoration: underline;
+    margin-top: 0;
+}
+
+#about h4 {
+    margin-bottom: 10px;
+}
+
+#contact {
+    width: 300px;
+    height: 100%;
+    margin-top: 40px;
+    border: 2px solid;
+    padding: 10px;
+    border-color: #b0a3f2;
+    background-color: #191135;
+    color: #ddd8f5;
+    margin-left: 30px;
+}
+
+#contact h2 {
+    text-decoration: underline;
+    margin-top: 0;
+}
+
+#contact h4 {
+    margin-bottom: 10px;
+}
+
+#main {
+    float: right;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+#projects {
+    width: 400px;
+    height: 80%;
+    margin-top: 3%;
+    border: 2px solid;
+    padding: 10px;
+    border-color: #725ac1;
+    color: #ddd8f5;
+    background-color: #191135;
+}
+
+#projects h2 {
+    text-decoration: underline;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+#projects h4 {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#projects ul,
+li {
+    line-height: 40px;
+}
+
+#credits {
+    width: 400px;
+    height: 100%;
+    line-height: 0px;
+    position: relative;
+    padding-top: 100px;
+    margin-top: 30px;
+    background-color: #82c3c3;
+    border: 2px solid;
+    padding: 10px;
+    border-color: #b0f7f7;
+    color: #191135;
+}
+
+#copyright {
+    width: 423.4px;
+    height: 100%;
+    margin-top: 20px;
+    background-color: #586f7c;
+
+}
+
+/* #1d1726, #e899dc, #bcf4de, #5438dc, #586f7c, AF9BB6, D7BCE8, 725AC1, 576CA8, 59C3C3, 7261A3, 5E2BFF */
